@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_My_Movie_show\\Book_My_Movie_show.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_My_Movie_show\\Book_My_Movie_show.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_My_Movie_show\\Book_My_Movie_show.csproj",
+        "projectName": "Book_My_Movie_show",
+        "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_My_Movie_show\\Book_My_Movie_show.csproj",
+        "packagesPath": "C:\\Users\\PRABHU UDAGATTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_My_Movie_show\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRABHU UDAGATTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\Book_Show_DAL.csproj": {
+                "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\Book_Show_DAL.csproj"
+              },
+              "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj": {
+                "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\Book_Show_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\Book_Show_DAL.csproj",
+        "projectName": "Book_Show_DAL",
+        "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\Book_Show_DAL.csproj",
+        "packagesPath": "C:\\Users\\PRABHU UDAGATTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRABHU UDAGATTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj": {
+                "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj",
+        "projectName": "Book_Show_Entity",
+        "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj",
+        "packagesPath": "C:\\Users\\PRABHU UDAGATTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\28-10-2022\\Book_My_Movie_show\\Book_Show_Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRABHU UDAGATTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

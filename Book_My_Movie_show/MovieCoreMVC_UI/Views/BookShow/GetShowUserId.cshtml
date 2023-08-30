@@ -1,0 +1,167 @@
+﻿@{
+    Layout = "~/Views/Shared/UserPage.cshtml";
+}
+@model IEnumerable< Book_Show_Entity.BookShow>
+
+@*<div>
+    <a asp-controller="Location" asp-action="LocationEntry">ADD Movie Location</a>
+</div>*@
+
+<section style="background-color:lightgreen;">
+    <h4 class="mb-4" style="padding-top:10px;padding-left:30px;">Booking Details</h4>
+@foreach (var movie in Model)
+{//default put as model it is keyword in MVC
+                 //@ we used to refer the csharp code
+                 //razer view compiler.it will convert the code to html understand file
+    <div style="background-color:black; width:10px;">
+        <i class="fa-solid fa-star"></i>
+    </div>
+    <hr />
+
+    
+        
+        <div class="container">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col col-md-9 col-lg-7 col-xl-5">
+                    <div class="card" style="border-radius: 20px; background-color:whitesmoke;">
+                        <div class="card-body p-4 text-black">
+                            <div>
+                                <h4 class="mb-4">Your Ticket : Confirmed</h4>
+                                <div class="d-flex align-items-center justify-content-between mb-3">
+                                    <table class="table-bordered">
+                                       <tr>
+                                            <th>&nbsp;Ticket Price &nbsp;&nbsp;</th>
+
+                                            <th>&nbsp;No Of Tickets&nbsp;&nbsp;</th>
+
+                                            <th>&nbsp;Total Ticket Cost&nbsp;</th>
+                                           
+                                        </tr>
+                                        <tbody>
+                                            <tr>
+                                                <td>&nbsp;&nbsp;@movie.ShowTiming.ShowCost&nbsp;&nbsp;</td>
+
+                                                <td>&nbsp;&nbsp;@movie.NoOfTickets&nbsp;&nbsp;</td>
+
+                                                <td>&nbsp;&nbsp;@movie.TicketCost&nbsp;</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            @*<div class="d-flex align-items-center mb-4">
+                                <div class="flex-shrink-0">
+                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-profiles/avatar-2.webp"
+                                     alt="Generic placeholder image" class="img-fluid rounded-circle border border-dark border-3"
+                                     style="width: 70px;">
+                                </div>
+                                <div class="flex-grow-1 ms-3">
+                                    <div class="d-flex flex-row align-items-center mb-2">
+                                        <p class="mb-0 me-2">sheisme</p>
+                                        <ul class="mb-0 list-unstyled d-flex flex-row" style="color: #1B7B2C;">
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <button type="button" class="btn btn-outline-dark btn-rounded btn-sm"
+                                            data-mdb-ripple-color="dark">
+                                            + Follow
+                                        </button>
+                                        <button type="button" class="btn btn-outline-dark btn-rounded btn-sm"
+                                            data-mdb-ripple-color="dark">
+                                            See profile
+                                        </button>
+                                        <button type="button" class="btn btn-outline-dark btn-floating btn-sm"
+                                            data-mdb-ripple-color="dark">
+                                            <i class="fas fa-comment"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>*@
+                            <div class="d-flex align-items-center mb-4">
+                                <div class="flex-shrink-0">
+                                    <img src="data:image/JPG;base64,@Convert.ToBase64String(@movie.ShowTiming.Movie.ImgPoster)"
+                                     alt="Generic placeholder image" class="img-fluid rectangle border border-dark border-3"
+                                     style="width: 100px;">
+                                </div>
+                                <div class="flex-grow-1 ms-3">
+                                    <div class="d-flex flex-row align-items-center mb-2">
+                                        <div>
+                                            <h2 style="padding-left:50px;"> @movie.ShowTiming.Movie.MovieName</h2>
+                                            <br/>
+                                            <p style="padding-left:50px;">@movie.ShowTiming.Movie.MovieType<p />
+                                       
+                                            <p style="padding-left:50px;">@movie.ShowTiming.Movie.MovieLanguage</p>
+                                           
+                                            <p style="padding-left:50px;"> @movie.ShowTiming.Movie.MovieDesc</p>
+                                          
+                                           
+                                            <p style="padding-left:50px;"> @movie.ShowTiming.ShowTime</p>
+                                            
+                                    </div>
+                                        
+                                    </div>
+                                    <div style="color:red;">
+                                        <h5 style="padding-left:50px;"></h5>
+                                        <h5 style="padding-left:50px;"></h5>
+                                        <ul class="mb-0 list-unstyled d-flex flex-row" style="color:gold;">
+                                            <li>
+
+                                               
+                                            </li>
+                                            <li>
+
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                            <li>
+                                                <i class="fas fa-star fa-xs"></i>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            <hr>
+                            <p class="my-4 pb-1">Adress:   <span>@movie.ShowTiming.Theater.Name</span>  in  <span>@movie.ShowTiming.Theater.Location.LocationDesc</span></p>
+                            <a asp-controller="BookShow" asp-action="DeleteBookShow" class="btn btn-danger btn-rounded btn-block btn-lg">Cancel Ticket</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+
+
+                }
+</section>
+<div>
+    <hr />
+    <a asp-controller="UserHome" asp-action="Index"><i class="fa fa-home" style="font-size:48px;color:red"></i></a>
+    <hr />
+</div>
+
+

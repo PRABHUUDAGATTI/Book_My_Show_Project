@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\MovieCoreMVC_UI\\MovieCoreMVC_UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj",
+        "projectName": "Book_Show_Entity",
+        "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj",
+        "packagesPath": "C:\\Users\\PRABHU UDAGATTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PRABHU UDAGATTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\MovieCoreMVC_UI\\MovieCoreMVC_UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\MovieCoreMVC_UI\\MovieCoreMVC_UI.csproj",
+        "projectName": "MovieCoreMVC_UI",
+        "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\MovieCoreMVC_UI\\MovieCoreMVC_UI.csproj",
+        "packagesPath": "C:\\Users\\PRABHU UDAGATTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\MovieCoreMVC_UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PRABHU UDAGATTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj": {
+                "projectPath": "C:\\Users\\PRABHU UDAGATTI\\OneDrive\\Desktop\\Prabhu_Private\\IT\\Projects\\.net_Project\\Book_My_Show\\Book_My_Show_Project\\Book_My_Movie_show\\Book_Show_Entity\\Book_Show_Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_DAL.deps.json
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_DAL.runtimeconfig.json
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_DAL.runtimeconfig.dev.json
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_DAL.dll
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_DAL.pdb
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_Entity.dll
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\bin\Debug\netcoreapp3.1\Book_Show_Entity.pdb
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.csproj.AssemblyReference.cache
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.AssemblyInfoInputs.cache
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.AssemblyInfo.cs
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.csproj.CoreCompileInputs.cache
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.csproj.CopyComplete
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.dll
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.pdb
+C:\Users\PRABHU UDAGATTI\OneDrive\Desktop\Prabhu_Private\IT\Projects\.net_Project\Book_My_Show\Book_My_Show_Project\Book_My_Movie_show\Book_Show_DAL\obj\Debug\netcoreapp3.1\Book_Show_DAL.genruntimeconfig.cache
